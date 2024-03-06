@@ -1,5 +1,5 @@
 from setuptools import setup
-setup(name='wyy',
+setup(name='PUBGMOBILECWZBXY',
       version='0.1',
       author='Ling',
       author_email='w15126273059@outlook.com',
